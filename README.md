@@ -8,6 +8,7 @@ Diseño: Photoshop
 Back-end: Sequelize, PostgreSQL, Node.js, Express.js
 
 📌 Proyecto “Henry Food”: Es una aplicación web de recetas, en la cual implementé Sequelize, PosgreSQL, Node.js y Express para el back-end. En cuanto al front-end, utilicé React, Redux y CSS puro. La misma cuenta con filtrados, ordenamientos, búsqueda por nombre y formularios controlados.
+
 📌 Proyecto “GameScript”: Se trata de un proyecto grupal, en el cual desarrollamos un e-commerce de videojuegos. En este caso, me desempeñé en la parte del front-end.
 
 👉🏻¿Back-end o Front-end? 
